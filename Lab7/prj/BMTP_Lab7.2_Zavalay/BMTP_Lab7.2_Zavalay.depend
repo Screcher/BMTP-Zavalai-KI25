@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1771759074 source:c:\users\admin\desktop\נמבמקו הח\bmtp_lab7.2_zavalay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+
